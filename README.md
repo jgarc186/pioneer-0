@@ -1,8 +1,8 @@
 # Pioneer 0
-- This is metapackage that includes all the dependencies required and boilerplate code to get started with a new PHP library or application.
+- This meta-package includes all the developer dependencies required and boilerplate code to get started with a new PHP library or application.
 
 ## Description
-- This package is a simple way to get started with a new PHP library or application. It includes all the dependencies required and boilerplate code to get started with a new PHP library or application. It is a simple package that is easy to use and does not require any configuration.
+- This package is a simple way to start with a new PHP library or application. It includes all the  developer dependencies required and boilerplate code to get started. It is a simple package that is easy to use.
 
 ## Features
 - Includes all the developer dependencies required to get started with a new PHP library or application.
