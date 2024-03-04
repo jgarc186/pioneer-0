@@ -33,6 +33,5 @@ composer create-project josegarcia/pioneer-0 my-new-library
 - This package is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Author
-- [Jose Garcia]
 - [GitHub](https://github.com/jgarc186)
 - [LinkedIn](www.linkedin.com/in/jgarc186)
